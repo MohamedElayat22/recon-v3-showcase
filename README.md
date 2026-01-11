@@ -27,7 +27,8 @@ Recon V3 is a private, pro-grade reconnaissance framework developed for high-sca
 
 
 ### 2. Axiom Distributed Fuzzing
-![Fuzzing](screenshots/fuzzing_demo.png)
+<img width="1646" height="527" alt="image" src="https://github.com/user-attachments/assets/cb1a283f-98cb-4139-882e-7ed8a9d40af4" />
+
 
 
 ## 🛠️ Tech Stack
