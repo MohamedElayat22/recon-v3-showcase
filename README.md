@@ -24,11 +24,11 @@ Recon V3 is a private, pro-grade reconnaissance framework developed for high-sca
 
 ### 1. Main Dashboard
 ![Dashboard](screenshots/main_menu.png)
-*(Place a screenshot of your tool's ASCII art and menu here)*
+
 
 ### 2. Axiom Distributed Fuzzing
 ![Fuzzing](screenshots/fuzzing_demo.png)
-*(Screenshot of the logs showing "Phase 1: Distributed Fuzzing" and the progress bars)*
+
 
 ## 🛠️ Tech Stack
 *   **Core:** Bash Scripting
